@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 30%;
+    margin: auto;
+}
+
+input {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 0.3rem;
+}
+
+div {
+    margin-top: 1rem;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    border-radius: 4px;
+    background-color: #f57f3b;
+    padding: 0.3rem;
+}
